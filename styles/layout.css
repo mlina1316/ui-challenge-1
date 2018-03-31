@@ -1,0 +1,155 @@
+
+@media only screen and (max-width:768px ) {
+   
+    #main {
+        width: 480px;
+        /* background: black; */
+        float: left;
+    }
+
+    #desktop {
+        display:none;
+        padding-bottom: 25px;
+    }
+
+    .containerA {
+        width: 480px;
+        height: 75px;
+        float: left;
+        background-color: lightcoral;
+    }
+
+    .containerB {
+        width: 480px;
+        height: 150px;
+        float: left;
+        background-color:lightgoldenrodyellow;
+    }
+
+    .containerC {
+        width: 480px;
+        height: 125px;
+        float: left;
+        background-color: lightgreen;
+    }
+
+    .containerD {
+        width: 480px;
+        height: 125px;
+        float: left;
+        background-color: pink;
+    }
+
+    .containerE {
+        width: 240px;
+        height: 250px;
+        float: left;
+        background-color: rgb(154, 182, 79);
+    }
+
+    .containerF {
+        width: 240px;
+        height: 250px;
+        float: left;
+        background-color: orange;
+    }
+
+    .containerG {
+        width: 240px;
+        height: 250px;
+        float: left;
+        background-color: lightblue;
+    }
+
+    .containerH {
+        width: 240px;
+        height: 250px;
+        float: left;
+        background-color: darkcyan;
+    }
+
+    .containerI {
+        width: 480px;
+        height: 80px;
+        float: left;
+        background-color: greenyellow;
+    }
+}
+
+@media only screen and (min-width: 769px) {
+    #main {
+        width: 960px;
+        /* background: black; */
+        float: left;
+    }
+
+    #mobile {
+        display:none;
+        padding-bottom: 25px;
+    }
+
+    .containerA {
+        width: 960px;
+        height: 100px;
+        float: left;
+        background-color: lightcoral;
+    }
+
+    .containerB {
+        width: 200px;
+        height: 600px;
+        float: left;
+        background-color:lightgoldenrodyellow;
+    }
+
+    .containerC {
+        width: 380px;
+        height: 200px;
+        float: left;
+
+        background-color: lightgreen;
+    }
+
+    .containerD {
+        width: 380px;
+        height: 200px;
+        float: left;
+        background-color: pink;
+    }
+
+    .containerE {
+        width: 190px;
+        height: 250px;
+        float: left;
+        background-color: rgb(154, 182, 79);
+    }
+
+    .containerF {
+        width: 190px;
+        height: 250px;
+        float: left;
+        background-color: orange;
+    }
+
+    .containerG {
+        width: 190px;
+        height: 250px;
+        float: left;
+        background-color: lightblue;
+    }
+
+
+    .containerH {
+        width: 190px;
+        height: 250px;
+        float: left;
+        background-color: darkcyan;
+    }
+
+    .containerI {
+        width: 760px;
+        height: 150px;
+        float: left;
+        background-color: greenyellow;
+    } 
+} 
